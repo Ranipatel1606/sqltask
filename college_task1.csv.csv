@@ -1,0 +1,99 @@
+product_id,product_name,category,unit_price,stock_quantity,supplier,launch_date,rating
+103,Stainless Steel Water Bottle,Home Goods,35,180,AquaFlow,2024,4
+104,Noise-Cancelling Headphones,Electronics,299,100,SoundPro,2025,5
+105,Gourmet Coffee Blend,Food & Drink,18,400,DailyRoast,2023,5
+106,Ergo Office Chair,Furniture,450,30,ComfySit,2024,4
+107,Portable Power Bank,Accessories,45,120,PowerGo,2025,4
+108,Classic Denim Jeans,Apparel,70,90,BlueThreads,2022,4
+109,4K Smart TV (55),Electronics,799,45,TechGen,2025,5
+110,Bamboo Cutting Board,Home Goods,22,300,EcoWear,2024,3
+111,Premium Espresso Maker,Home Goods,550,20,DailyRoast,2023,5
+112,Wool Blend Scarf,Apparel,30,150,BlueThreads,2024,4
+113,Gaming Mousepad (XL),Electronics,15,600,TechGen,2025,4
+114,Organic Green Tea Bags,Food & Drink,12,800,DailyRoast,2023,5
+115,Winter Hiking Boots,Apparel,110,75,EcoWear,2022,5
+116,LED Desk Lamp,Home Goods,40,220,AquaFlow,2024,3
+117,USB-C Cable (6 ft),Accessories,10,900,PowerGo,2025,4
+118,Blender (High Power),Home Goods,99,110,SoundPro,2023,4
+119,Hooded Rain Jacket,Apparel,85,65,BlueThreads,2024,4
+120,Smart Watch (Gen 3),Electronics,350,50,TechGen,2025,5
+121,Dark Chocolate Bar,Food & Drink,5,1200,DailyRoast,2023,5
+122,Memory Foam Pillow,Home Goods,50,150,ComfySit,2024,4
+123,External SSD (1TB),Electronics,80,80,PowerGo,2025,5
+124,Ceramic Soup Mug,Home Goods,8,450,AquaFlow,2024,3
+125,Unisex Baseball Cap,Apparel,20,350,EcoWear,2023,4
+126,Robot Vacuum Cleaner,Electronics,350,40,SoundPro,2025,4
+127,Silicone Baking Mat,Home Goods,15,200,AquaFlow,2024,5
+128,Protein Powder (Vanilla),Food & Drink,40,180,DailyRoast,2023,4
+129,Running Shoes (Mens),Apparel,95,110,BlueThreads,2025,5
+130,Portable Bluetooth Speaker,Electronics,60,140,TechGen,2024,4
+131,Set of Wine Glasses,Home Goods,30,95,AquaFlow,2023,4
+132,Laptop Backpack,Accessories,75,60,PowerGo,2025,5
+133,Rechargeable Flashlight,Home Goods,25,280,ComfySit,2024,3
+134,Travel Mug (Insulated),Home Goods,20,310,EcoWear,2023,5
+135,Tablet Stylus Pen,Electronics,18,500,TechGen,2025,4
+136,Summer Dress (Floral),Apparel,55,70,BlueThreads,2024,4
+137,Aromatherapy Diffuser,Home Goods,30,160,AquaFlow,2023,3
+138,Wireless Charging Pad,Accessories,25,400,PowerGo,2025,5
+139,Olive Oil (Extra Virgin),Food & Drink,15,220,DailyRoast,2024,5
+140,Book Shelf (5 Tier),Furniture,150,25,ComfySit,2022,4
+141,Yoga Mat (Thick),Home Goods,35,130,EcoWear,2025,4
+142,Over-Ear Gaming Headset,Electronics,140,65,SoundPro,2024,5
+143,Leather Wallet (Mens),Accessories,40,170,BlueThreads,2023,4
+144,Electric Kettle,Home Goods,45,100,AquaFlow,2025,4
+145,Whole Bean Coffee (Decaf),Food & Drink,17,300,DailyRoast,2024,3
+146,Portable Mini Fan,Electronics,12,550,TechGen,2023,4
+147,Flannel Pajamas (Unisex),Apparel,60,80,BlueThreads,2025,5
+148,Set of Mixing Bowls,Home Goods,40,190,EcoWear,2024,4
+149,Solar Garden Lights (4-pk),Home Goods,30,260,AquaFlow,2023,4
+150,Microfiber Cleaning Cloths,Home Goods,10,700,ComfySit,2025,5
+151,Webcam 1080P,Electronics,55,90,TechGen,2024,4
+152,Insulated Lunch Bag,Accessories,20,250,PowerGo,2023,4
+153,Hand Soap (Lavender),Home Goods,6,800,DailyRoast,2025,3
+154,Men's Polo Shirt,Apparel,35,170,EcoWear,2024,5
+155,External Hard Drive (2TB),Electronics,95,70,SoundPro,2023,4
+156,Bath Towel Set (4-pk),Home Goods,65,120,AquaFlow,2025,4
+157,Almond Butter (Crunchy),Food & Drink,9,350,DailyRoast,2024,5
+158,Casual Sneakers,Apparel,75,100,BlueThreads,2023,5
+159,Streaming Media Player,Electronics,49,130,TechGen,2025,4
+160,Picture Frame (8x10),Home Goods,15,400,ComfySit,2024,3
+161,Portable Heater,Home Goods,55,80,AquaFlow,2023,4
+162,Travel Neck Pillow,Accessories,18,210,PowerGo,2025,4
+163,Peanut Butter (Smooth),Food & Drink,5,600,DailyRoast,2024,5
+164,Women's Blouse,Apparel,40,160,EcoWear,2023,4
+165,Gaming Console (Slim),Electronics,499,30,SoundPro,2025,5
+166,Stainless Steel Frying Pan,Home Goods,70,75,AquaFlow,2024,5
+167,Bluetooth Earbuds (ANC),Electronics,99,110,TechGen,2023,5
+168,Weighted Blanket,Home Goods,85,50,ComfySit,2025,4
+169,Reusable Shopping Bag,Home Goods,5,1500,EcoWear,2024,3
+170,Running Shorts (Womens),Apparel,30,200,BlueThreads,2023,4
+171,Sugar Free Syrup,Food & Drink,8,450,DailyRoast,2025,4
+172,Digital Camera (Mirrorless),Electronics,899,15,TechGen,2024,5
+173,Travel Adapter (Universal),Accessories,22,180,PowerGo,2023,4
+174,Small Desk Organizer,Home Goods,15,300,ComfySit,2025,3
+175,Tote Bag (Canvas),Accessories,25,250,EcoWear,2024,4
+176,Wireless Router (AX),Electronics,120,70,SoundPro,2023,5
+177,Glass Storage Containers,Home Goods,45,160,AquaFlow,2025,4
+178,Oatmeal (Rolled Oats),Food & Drink,4,750,DailyRoast,2024,5
+179,Winter Coat (Puffer),Apparel,150,40,BlueThreads,2023,5
+180,Gaming Monitor (144Hz),Electronics,250,55,TechGen,2025,4
+181,Scented Candle (Vanilla),Home Goods,12,350,ComfySit,2024,4
+182,Smart Scale (Body Fat),Electronics,40,90,PowerGo,2023,4
+183,Serving Platter (Ceramic),Home Goods,35,140,AquaFlow,2025,3
+184,Trail Mix (Nut Free),Food & Drink,7,500,DailyRoast,2024,5
+185,Hiking Socks (3-pk),Apparel,20,280,EcoWear,2023,4
+186,Digital Drawing Tablet,Electronics,199,45,SoundPro,2025,5
+187,Area Rug (5x8),Home Goods,180,20,ComfySit,2024,4
+188,Hair Dryer (Ionic),Home Goods,65,85,AquaFlow,2023,4
+189,Leather Belt (Mens),Apparel,35,190,BlueThreads,2025,4
+190,Wireless Mouse (Ergonomic),Electronics,30,310,TechGen,2024,5
+191,Handheld Immersion Blender,Home Goods,30,150,AquaFlow,2023,4
+192,Shampoo (Volume),Home Goods,15,200,DailyRoast,2025,4
+193,Ski Gloves (Waterproof),Apparel,45,60,EcoWear,2024,5
+194,Action Camera (4K),Electronics,150,55,SoundPro,2023,5
+195,Throw Blanket (Fleece),Home Goods,25,250,ComfySit,2025,4
+196,Backpack (20L),Accessories,50,110,PowerGo,2024,4
+197,Canned Black Beans,Food & Drink,2,900,DailyRoast,2023,3
+198,Men's Dress Shirt,Apparel,55,140,BlueThreads,2025,5
+199,Portable Projector,Electronics,180,40,TechGen,2024,4
+200,Set of Kitchen Knives,Home Goods,90,75,AquaFlow,2023,5
